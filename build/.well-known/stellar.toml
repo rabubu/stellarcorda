@@ -1,27 +1,27 @@
-NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+VERSION="2.2.1"
 
 ACCOUNTS=[
-"GDSRA2RC2WVTV46V75UHMDIFVG5R4S2MJCOUBB3LFIR2PHMXBPUDCSD7"
+"GD2L2K3KGAUOER7GO4MEPTQGL3LO5T7EHEBIEHEU2ZCM6SCRQYIEQ6L2",
 ]
-VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Cryptocurrency"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="Hand-Poured Pure Silver Stormtrooper Mask. 225.00. Quick View. Original American Silver Eagle Dollar Coin Ring."
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/SN5pjj1/luke.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="Pro Stellar"
+ORG_URL="prostellar.org"
+ORG_DESCRIPTION="Prostellar has been released on Stellar Blockchain!"
+ORG_LOGO="https://i.ibb.co/PFZCB9L/0313stellar.webp"
+ORG_OFFICIAL_EMAIL="prostellar@gmail.com"
 
 
 [[CURRENCIES]]
-code="LUKE"
-issuer="GDSRA2RC2WVTV46V75UHMDIFVG5R4S2MJCOUBB3LFIR2PHMXBPUDCSD7"
-anchor_asset="false"
-name="Luke Coin"
-desc="Hand-Poured Pure Silver Stormtrooper Mask. 225.00. Quick View. Original American Silver Eagle Dollar Coin Ring."
-image="https://i.ibb.co/SN5pjj1/luke.jpg"
-fixed_number=1000000000
-max_number=1000000000
+code="CMACGM"
+status="live"
+display_decimals=2
+issuer="GD2L2K3KGAUOER7GO4MEPTQGL3LO5T7EHEBIEHEU2ZCM6SCRQYIEQ6L2"
+anchor_asset_type="crypto"
+name="CMA CGM"
+desc="Earn interest on your XLM by holding CMACGM tokens. CMACGM are liquid tokens that you can trade, redeem or send at any time."
+image="https://i.ibb.co/MN5fkhY/0e176289-8d58-41f0-ac74-86dbb2e18ba8.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#LukeCoin was issued using the open and inclusive Stellar blockchain network.
+#CMA CGM was issued using the open and inclusive Stellar blockchain network.
