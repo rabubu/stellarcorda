@@ -1,42 +1,27 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GD2L2K3KGAUOER7GO4MEPTQGL3LO5T7EHEBIEHEU2ZCM6SCRQYIEQ6L2",
-"GBLHTLRNPKPBOFXM6JXE4VPGWVCL7DDTCB4GIHG76KNHIIXQA2STQK5Z"
+"GAP4SKG4O53IWKCCLBAAQHZU67R6HXRG7KWFUIZAZU6SP4WOLFDXYPGB",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Pro Stellar"
-ORG_URL="prostellar.org"
+ORG_NAME="Corda R3"
+ORG_URL="stellarcorda.org"
 ORG_DESCRIPTION="Prostellar has been released on Stellar Blockchain!"
-ORG_LOGO="https://i.ibb.co/PFZCB9L/0313stellar.webp"
-ORG_OFFICIAL_EMAIL="prostellar@gmail.com"
+ORG_LOGO=""
+ORG_OFFICIAL_EMAIL="cordasupport@gmail.com"
 
 
 [[CURRENCIES]]
-code="CMACGM"
+code="XCORDA"
 status="live"
 display_decimals=2
-issuer="GD2L2K3KGAUOER7GO4MEPTQGL3LO5T7EHEBIEHEU2ZCM6SCRQYIEQ6L2"
+issuer=""
 anchor_asset_type="crypto"
-name="CMA CGM"
-desc="Earn interest on your XLM by holding CMACGM tokens. CMACGM are liquid tokens that you can trade, redeem or send at any time."
-image="https://i.ibb.co/MN5fkhY/0e176289-8d58-41f0-ac74-86dbb2e18ba8.png"
-fixed_number=1000000
-max_number=1000000
-is_unlimited=false
-#CMA CGM was issued using the open and inclusive Stellar blockchain network.
-
-[[CURRENCIES]]
-code="ETC"
-status="live"
-display_decimals=2
-issuer="GBLHTLRNPKPBOFXM6JXE4VPGWVCL7DDTCB4GIHG76KNHIIXQA2STQK5Z"
-anchor_asset_type="crypto"
-name="Ethereum Classic"
-desc="Earn interest on your XLM by holding ETC tokens. ETC are liquid tokens that you can trade, redeem or send at any time."
-image="https://i.ibb.co/vc5mwst/etc.png"
+name="Corda R3"
+desc=""
+image=""
 fixed_number=1000000000
-max_number=1000000000
+max_number=100000000
 is_unlimited=false
-#Ethereum Classic was issued using the open and inclusive Stellar blockchain network.
+#Corda R3 was issued using the open and inclusive Stellar blockchain network.
