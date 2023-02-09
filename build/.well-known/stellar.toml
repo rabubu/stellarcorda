@@ -6,7 +6,7 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="Corda R3"
-ORG_URL="stellarcorda.org"
+ORG_URL="https://stellarcorda.org"
 ORG_DESCRIPTION="Prostellar has been released on Stellar Blockchain!"
 ORG_LOGO=""
 ORG_OFFICIAL_EMAIL="cordasupport@gmail.com"
