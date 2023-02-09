@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://stellarcorda.org"
+  to = "https://r3.com"
+  status = 301
+  force = true
