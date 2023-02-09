@@ -1,7 +1,7 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GAP4SKG4O53IWKCCLBAAQHZU67R6HXRG7KWFUIZAZU6SP4WOLFDXYPGB",
+"GDSPZEKSGHDTGIB74UPQTDZMVJU2CRNJNSHJ24GVIWQ6DFHUPPFLWSA5",
 ]
 
 [DOCUMENTATION]
@@ -16,10 +16,10 @@ ORG_OFFICIAL_EMAIL="cordasupport@gmail.com"
 code="XCORDA"
 status="live"
 display_decimals=2
-issuer=""
+issuer="GDSPZEKSGHDTGIB74UPQTDZMVJU2CRNJNSHJ24GVIWQ6DFHUPPFLWSA5"
 anchor_asset_type="crypto"
 name="Corda R3"
-desc=""
+desc="R3’s Corda is the world’s leading private, permissioned distributed application platform powering multi-party workflows. Discover why hundreds of regulated institutions have chosen Corda to fuel the modernization of their business and drive greater efficiencies."
 image=""
 fixed_number=1000000000
 max_number=100000000
