@@ -12,6 +12,9 @@ ORG_LOGO="https://i.ibb.co/4W1qFhF/r3corda.png"
 ORG_PHYSICAL_ADDRESS="2 London Wall Place, 11th Floor London, EC2Y 5AU"
 ORG_OFFICIAL_EMAIL="cordasupport@gmail.com"
 
+[[PRINCIPALS]]
+name="Silvia Attanasio"
+
 
 [[CURRENCIES]]
 code="XCORDA"
